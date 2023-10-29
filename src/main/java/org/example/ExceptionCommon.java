@@ -1,6 +1,6 @@
 package org.example;
 
-public class EcseptionCommon {
+public class ExceptionCommon {
     public static void main(String[] args) {
             try {
 
