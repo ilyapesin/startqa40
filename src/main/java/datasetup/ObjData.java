@@ -26,10 +26,5 @@ public class ObjData {
         return list;
     }
 
-    @Override
-    public String toString() {
-        return "ObjData{" +
-                "list=" + list +
-                '}';
-    }
+
 }
